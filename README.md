@@ -15,10 +15,10 @@ My journey in building computers has led me to develop a passion for cybersecuri
 
 ### Penetration Testing and Exploitation
 <div>
-    <img src="https://img.shields.io/static/v1?label=&message=Metasploit&color=red&logo=metasploit&logoColor=white&style=flat-square" />
-    <img src="https://img.shields.io/static/v1?label=&message=Nmap&color=red&logo=nmap&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/-Metasploit-%23FF0000?style=for-the-badge&logo=metasploit&logoColor=white" />
 <div>
-Nmap
+    <img src="https://img.shields.io/badge/-Nmap-%23FF0000?style=for-the-badge&logo=nmap&logoColor=white" />
+<div>
 
 ### Network
 <div>
