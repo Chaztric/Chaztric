@@ -10,6 +10,7 @@ I am a senior in college with a strong interest in SOC work and hands-on threat 
 My journey in building computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a SOC as an Analyst.
 
 ## Skills
+**Security / Detection:** Network traffic analysis (TCP/IP, DNS, HTTP/S), intrusion detection, threat hunting, incident response, MITRE ATT&CK mapping.
 
 ## Tools
 
