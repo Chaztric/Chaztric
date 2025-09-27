@@ -23,18 +23,18 @@ My journey in building computers has led me to develop a passion for cybersecuri
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-</div>
+<div>
     <img src="https://img.shields.io/badge/-Tcpdump-1679A7?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
-</div>
+<div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-</div>
 
 ### Utilities
 <div>
     <img src="https://img.shields.io/badge/-John%20the%20Ripper-%236f42c1?style=for-the-badge" />
+</div>
 
 ## Projects
 - <a href="https://github.com/Chaztric/Buffer-Overflow-Exploit">Buffer Overflow Exploit</a>
