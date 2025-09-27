@@ -13,16 +13,27 @@ My journey in building computers has led me to develop a passion for cybersecuri
 
 ## Tools
 
+### Penetration Testing and Exploitation
+<div>
+    <img src="https://img.shields.io/static/v1?label=&message=Metasploit&color=red&logo=metasploit&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/static/v1?label=&message=Nmap&color=red&logo=nmap&logoColor=white&style=flat-square" />
+<div>
+Nmap
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 </div>
+
+Tcpdump
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Utilities
+John the ripper
 
 ## Projects
 - <a href="https://github.com/Chaztric/Buffer-Overflow-Exploit">Buffer Overflow Exploit</a>
