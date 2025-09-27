@@ -33,7 +33,8 @@ My journey in building computers has led me to develop a passion for cybersecuri
 </div>
 
 ### Utilities
-John the ripper
+<div>
+    <img src="https://img.shields.io/badge/-John%20the%20Ripper-%236f42c1?style=for-the-badge" />
 
 ## Projects
 - <a href="https://github.com/Chaztric/Buffer-Overflow-Exploit">Buffer Overflow Exploit</a>
