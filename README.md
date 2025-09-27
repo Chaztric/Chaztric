@@ -7,7 +7,7 @@ I am a senior in college with a strong interest in SOC work and hands-on threat 
 
 ## Objective
 
-My journey in building computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a SOC as a Tier 1 Analyst.
+My journey in building computers has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a SOC as an Analyst.
 
 ## Skills
 
